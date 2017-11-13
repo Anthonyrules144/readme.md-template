@@ -2,9 +2,16 @@
 ___A description here___
 
 ### Using this?
-#### A short description on how to use this git
+#### Just use it!
+
 <br/>
 <br/>
+
+## Features
+* 1
+  * Description of 1
+* 2
+* 3
 
 ___
 
@@ -13,13 +20,6 @@ Post them in the [Issues](https://github.com/Anthonyrules144/readme.md-template/
 ### Have a code request?
 Post it in the [pull request](https://github.com/Anthonyrules144/readme.md-templat/pulls) tab.<br/>
 
-___
-
-## Features
-* 1
-  * Description of 1
-* 2
-* 3
 
 ___
 
